@@ -1,0 +1,7 @@
+requests
+websockets
+aiohttp
+certifi
+charset-normalizer
+idna
+urllib3
